@@ -13,8 +13,8 @@
     </item>
     <item>
       <title>002 - ما تيسر من سورة البقرة (Selections from Al-Baqara) - Sayyed Saeed</title>
-      <enclosure url="https://archive.org/download/019_20221105/002.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://archive.org/download/019_20221105/002.mp3</guid>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3</guid>
     </item>
     <item>
       <title>003 - سورة آل عمران (Al-Imran) - Sayyed Saeed</title>
@@ -22,7 +22,11 @@
       <guid>https://archive.org/download/019_20221105/003.mp3</guid>
     </item>
     <item>
-      <title>004 - سورة النساء (An-Nisa) - Sayyed Saeed</title>
+      <title>004(1) - سورة النساء الجزء الاول (An-Nisa) - Sayyed Saeed</title>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/004-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/004-001.mp3</guid>
+    </item>
+ <title>004(2) - سورة النساء الجزء الثانى (An-Nisa) - Sayyed Saeed</title>
       <enclosure url="https://archive.org/download/019_20221105/004.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/019_20221105/004.mp3</guid>
     </item>
@@ -41,13 +45,28 @@
       <enclosure url="https://archive.org/download/019_20221105/012.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/019_20221105/012.mp3</guid>
     </item>
+ <item>
+      <title>013 - سورة الرعد (Ar-Ra'd) - Sayyed Saeed</title>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/013-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/013-001.mp3</guid>
+    </item>
+<item>
+      <title>014 -  سورة إبراهيم - الجزء الاول (Ibrahim) - Sayyed Saeed</title>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/014-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/014-001.mp3</guid>
+    </item>
     <item>
-      <title>014 - سورة إبراهيم (Ibrahim) - Sayyed Saeed</title>
+      <title>014 - سورة إبراهيم - الجزء الثانى (Ibrahim) - Sayyed Saeed</title>
       <enclosure url="https://archive.org/download/019_20221105/014.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/019_20221105/014.mp3</guid>
     </item>
+ <item>
+      <title>016 -  سورة النحل ( An-Nahl) - Sayyed Saeed</title>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/016-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/016-001.mp3</guid>
+    </item>
     <item>
-      <title>017 - ما تيسر من سورة الإسراء (Selections from Al-Isra) - Sayyed Saeed</title>
+      <title>017 -  سورة الإسراء ( Al-Isra) - Sayyed Saeed</title>
       <enclosure url="https://archive.org/download/019_20221105/017.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/019_20221105/017.mp3</guid>
     </item>
@@ -66,10 +85,14 @@
       <enclosure url="https://archive.org/download/019_20221105/020.mp3" length="0" type="audio/mpeg"/>
       <guid>https://archive.org/download/019_20221105/020.mp3</guid>
     </item>
+ <title>020 - سورة الانبياء (Al-Anbiya) - Sayyed Saeed</title>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/021-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/021-001.mp3</guid>
+    </item>
     <item>
       <title>023 - سورة المؤمنون (Al-Muminun) - Sayyed Saeed</title>
-      <enclosure url="https://archive.org/download/019_20221105/023.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://archive.org/download/019_20221105/023.mp3</guid>
+      <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/023-001.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://media.way2quran.com/alsaid-saeed/hafs-an-asim/023-001.mp3</guid>
     </item>
     <item>
       <title>025 - سورة الفرقان (Al-Furqan) - Sayyed Saeed</title>
