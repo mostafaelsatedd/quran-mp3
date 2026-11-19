@@ -1,328 +1,328 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>Sayyed Saeed - Quran Recitations (الشيخ السيد سعيد - المصحف المجود)</title>
+    <title>تلاوات الشيخ السيد سعيد</title>
     <link>https://archive.org/details/019_20221105</link>
-    <description>تلاوات الشيخ السيد سعيد برواية حفص عن عاصم بصيغة MP3.</description>
+    <description>تلاوات قرآنية للشيخ السيد سعيد.</description>
     <language>ar</language>
-    <itunes:author>Sayyed Saeed (الشيخ السيد سعيد)</itunes:author>
-    <itunes:summary>تلاوات قرآنية بصوت الشيخ السيد سعيد، برواية حفص عن عاصم.</itunes:summary>
+    <itunes:author>الشيخ السيد سعيد</itunes:author>
+    <itunes:summary>تلاوات قرآنية بصوت الشيخ السيد سعيد.</itunes:summary>
 
     <item>
-      <title>001 - سورة الفاتحة (Al-Fatiha) - Sayyed Saeed</title>
-      <description>سورة الفاتحة بصوت الشيخ السيد سعيد.</description>
+      <title>001 الفاتحة</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/001.mp3</guid>
     </item>
     <item>
-      <title>002 - ما تيسر من سورة البقرة (Selections from Al-Baqara) - Sayyed Saeed</title>
-      <description>ما تيسر من سورة البقرة بصوت الشيخ السيد سعيد.</description>
+      <title>002 البقرة (مقاطع)</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3</guid>
     </item>
     <item>
-      <title>003 - سورة آل عمران (Al-Imran) - Sayyed Saeed</title>
-      <description>سورة آل عمران بصوت الشيخ السيد سعيد.</description>
+      <title>003 آل عمران</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/003.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/003.mp3</guid>
     </item>
     <item>
-      <title>004(1) - سورة النساء الجزء الأول (An-Nisa, Part 1) - Sayyed Saeed</title>
-      <description>الجزء الأول من سورة النساء بصوت الشيخ السيد سعيد.</description>
+      <title>004 النساء (1)</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/004-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/004-001.mp3</guid>
     </item>
     <item>
-      <title>004(2) - سورة النساء الجزء الثاني (An-Nisa, Part 2) - Sayyed Saeed</title>
-      <description>الجزء الثاني من سورة النساء بصوت الشيخ السيد سعيد.</description>
+      <title>004 النساء (2)</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/004.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/004.mp3</guid>
     </item>
     <item>
-      <title>005 - سورة المائدة (Al-Maida) - Sayyed Saeed</title>
-      <description>سورة المائدة بصوت الشيخ السيد سعيد.</description>
+      <title>005 المائدة</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/005.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/005.mp3</guid>
     </item>
     <item>
-      <title>006 - سورة الأنعام (Al-Anam) - Sayyed Saeed</title>
-      <description>سورة الأنعام بصوت الشيخ السيد سعيد.</description>
+      <title>006 الأنعام</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/006.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/006.mp3</guid>
     </item>
     <item>
-      <title>012 - سورة يوسف (Yusuf) - Sayyed Saeed</title>
-      <description>سورة يوسف بصوت الشيخ السيد سعيد.</description>
+      <title>012 يوسف</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/012.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/012.mp3</guid>
     </item>
     <item>
-      <title>013 - سورة الرعد (Ar-Ra'd) - Sayyed Saeed</title>
-      <description>سورة الرعد بصوت الشيخ السيد سعيد.</description>
+      <title>013 الرعد</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/013-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/013-001.mp3</guid>
     </item>
     <item>
-      <title>014(1) - سورة إبراهيم الجزء الأول (Ibrahim, Part 1) - Sayyed Saeed</title>
-      <description>الجزء الأول من سورة إبراهيم بصوت الشيخ السيد سعيد.</description>
+      <title>014 إبراهيم (1)</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/014-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/014-001.mp3</guid>
     </item>
     <item>
-      <title>014(2) - سورة إبراهيم الجزء الثاني (Ibrahim, Part 2) - Sayyed Saeed</title>
-      <description>الجزء الثاني من سورة إبراهيم بصوت الشيخ السيد سعيد.</description>
+      <title>014 إبراهيم (2)</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/014.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/014.mp3</guid>
     </item>
     <item>
-      <title>016 - سورة النحل (An-Nahl) - Sayyed Saeed</title>
-      <description>سورة النحل بصوت الشيخ السيد سعيد.</description>
+      <title>016 النحل</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/016-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/016-001.mp3</guid>
     </item>
     <item>
-      <title>017 - سورة الإسراء (Al-Isra) - Sayyed Saeed</title>
-      <description>سورة الإسراء بصوت الشيخ السيد سعيد.</description>
+      <title>017 الإسراء</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/017.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/017.mp3</guid>
     </item>
     <item>
-      <title>018 - سورة الكهف (Al-Kahf) - Sayyed Saeed</title>
-      <description>سورة الكهف بصوت الشيخ السيد سعيد.</description>
+      <title>018 الكهف</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/018.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/018.mp3</guid>
     </item>
     <item>
-      <title>019 - سورة مريم (Maryam) - Sayyed Saeed</title>
-      <description>سورة مريم بصوت الشيخ السيد سعيد.</description>
+      <title>019 مريم</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/019.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/019.mp3</guid>
     </item>
     <item>
-      <title>020 - سورة طه (Ta-Ha) - Sayyed Saeed</title>
-      <description>سورة طه بصوت الشيخ السيد سعيد.</description>
+      <title>020 طه</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/020.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/020.mp3</guid>
     </item>
     <item>
-      <title>021 - سورة الأنبياء (Al-Anbiya) - Sayyed Saeed</title>
-      <description>سورة الأنبياء بصوت الشيخ السيد سعيد.</description>
+      <title>021 الأنبياء</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/021-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/021-001.mp3</guid>
     </item>
     <item>
-      <title>023 - سورة المؤمنون (Al-Muminun) - Sayyed Saeed</title>
-      <description>سورة المؤمنون بصوت الشيخ السيد سعيد.</description>
+      <title>023 المؤمنون</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/023-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/023-001.mp3</guid>
     </item>
     <item>
-      <title>025 - سورة الفرقان (Al-Furqan) - Sayyed Saeed</title>
-      <description>سورة الفرقان بصوت الشيخ السيد سعيد.</description>
+      <title>025 الفرقان</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/025.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/025.mp3</guid>
     </item>
     <item>
-      <title>030 - سورة الروم (Ar-Rum) - Sayyed Saeed</title>
-      <description>سورة الروم بصوت الشيخ السيد سعيد.</description>
+      <title>030 الروم</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/030.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/030.mp3</guid>
     </item>
     <item>
-      <title>031 - سورة لقمان (Luqman) - Sayyed Saeed</title>
-      <description>سورة لقمان بصوت الشيخ السيد سعيد.</description>
+      <title>031 لقمان</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/031.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/031.mp3</guid>
     </item>
     <item>
-      <title>032 - سورة السجدة (As-Sajda) - Sayyed Saeed</title>
-      <description>سورة السجدة بصوت الشيخ السيد سعيد.</description>
+      <title>032 السجدة</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/032.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/032.mp3</guid>
     </item>
     <item>
-      <title>033 - سورة الأحزاب (Al-Ahzab) - Sayyed Saeed</title>
-      <description>سورة الأحزاب بصوت الشيخ السيد سعيد.</description>
+      <title>033 الأحزاب</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/033.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/033.mp3</guid>
     </item>
     <item>
-      <title>035 - سورة فاطر (Fatir) - Sayyed Saeed</title>
-      <description>سورة فاطر بصوت الشيخ السيد سعيد.</description>
+      <title>035 فاطر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/035.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/035.mp3</guid>
     </item>
     <item>
-      <title>036 - سورة يس (Ya-Sin) - Sayyed Saeed</title>
-      <description>سورة يس بصوت الشيخ السيد سعيد.</description>
+      <title>036 يس</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/036.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/036.mp3</guid>
     </item>
     <item>
-      <title>039 - سورة الزمر (Az-Zumar) - Sayyed Saeed</title>
-      <description>سورة الزمر بصوت الشيخ السيد سعيد.</description>
+      <title>039 الزمر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/039.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/039.mp3</guid>
     </item>
     <item>
-      <title>049 - سورة الحجرات وما تيسر من سورة ق (Al-Hujurat and Selections from Qaf) - Sayyed Saeed</title>
-      <description>سورة الحجرات وما تيسر من سورة ق بصوت الشيخ السيد سعيد.</description>
+      <title>049 الحجرات وق</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/049.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/049.mp3</guid>
     </item>
     <item>
-      <title>049 - سورة الحجرات (Al-Hujurat) - Sayyed Saeed</title>
-      <description>سورة الحجرات بصوت الشيخ السيد سعيد.</description>
+      <title>049 الحجرات</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/049.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/049.mp3</guid>
     </item>
     <item>
-      <title>050 - سورة ق (Qaf) - Sayyed Saeed</title>
-      <description>سورة ق بصوت الشيخ السيد سعيد.</description>
+      <title>050 ق</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/050.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/050.mp3</guid>
     </item>
     <item>
-      <title>054 - سورة القمر (Al-Qamar) - Sayyed Saeed</title>
-      <description>سورة القمر بصوت الشيخ السيد سعيد.</description>
+      <title>054 القمر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/054.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/054.mp3</guid>
     </item>
     <item>
-      <title>055 - سورة الرحمن (Ar-Rahman) - Sayyed Saeed</title>
-      <description>سورة الرحمن بصوت الشيخ السيد سعيد.</description>
+      <title>055 الرحمن</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/055.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/055.mp3</guid>
     </item>
     <item>
-      <title>059 - سورة الحشر (Al-Hashr) - Sayyed Saeed</title>
-      <description>سورة الحشر بصوت الشيخ السيد سعيد.</description>
+      <title>059 الحشر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/059.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/059.mp3</guid>
     </item>
     <item>
-      <title>066 - سورة التحريم (At-Tahrim) - Sayyed Saeed</title>
-      <description>سورة التحريم بصوت الشيخ السيد سعيد.</description>
+      <title>066 التحريم</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/066.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/066.mp3</guid>
     </item>
     <item>
-      <title>069 - سورة الحاقة (Al-Haqqa) - Sayyed Saeed</title>
-      <description>سورة الحاقة بصوت الشيخ السيد سعيد.</description>
+      <title>069 الحاقة</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/069.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/069.mp3</guid>
     </item>
     <item>
-      <title>073 - سورة المزمل (Al-Muzzammil) - Sayyed Saeed</title>
-      <description>سورة المزمل بصوت الشيخ السيد سعيد.</description>
+      <title>073 المزمل</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/073.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/073.mp3</guid>
     </item>
     <item>
-      <title>075 - سورة القيامة (Al-Qiyamah) - Sayyed Saeed</title>
-      <description>سورة القيامة بصوت الشيخ السيد سعيد.</description>
+      <title>075 القيامة</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/075.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/075.mp3</guid>
     </item>
     <item>
-      <title>079 - سورة النازعات (An-Nazi'at) - Sayyed Saeed</title>
-      <description>سورة النازعات بصوت الشيخ السيد سعيد.</description>
+      <title>079 النازعات</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/079.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/079.mp3</guid>
     </item>
     <item>
-      <title>082 - سورة الانفطار (Al-Infitar) - Sayyed Saeed</title>
-      <description>سورة الانفطار بصوت الشيخ السيد سعيد.</description>
+      <title>082 الانفطار</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/082.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/082.mp3</guid>
     </item>
     <item>
-      <title>085 - سورة البروج (Al-Buruj) - Sayyed Saeed</title>
-      <description>سورة البروج بصوت الشيخ السيد سعيد.</description>
+      <title>085 البروج</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/085.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/085.mp3</guid>
     </item>
     <item>
-      <title>086 - سورة الطارق (At-Tariq) - Sayyed Saeed</title>
-      <description>سورة الطارق بصوت الشيخ السيد سعيد.</description>
+      <title>086 الطارق</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/086.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/086.mp3</guid>
     </item>
     <item>
-      <title>087 - سورة الأعلى (Al-Ala) - Sayyed Saeed</title>
-      <description>سورة الأعلى بصوت الشيخ السيد سعيد.</description>
+      <title>087 الأعلى</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/087.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/087.mp3</guid>
     </item>
     <item>
-      <title>088 - سورة الغاشية (Al-Ghashiyah) - Sayyed Saeed</title>
-      <description>سورة الغاشية بصوت الشيخ السيد سعيد.</description>
+      <title>088 الغاشية</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/088.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/088.mp3</guid>
     </item>
     <item>
-      <title>089 - سورة الفجر (Al-Fajr) - Sayyed Saeed</title>
-      <description>سورة الفجر بصوت الشيخ السيد سعيد.</description>
+      <title>089 الفجر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/089.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/089.mp3</guid>
     </item>
     <item>
-      <title>090 - سورة البلد (Al-Balad) - Sayyed Saeed</title>
-      <description>سورة البلد بصوت الشيخ السيد سعيد.</description>
+      <title>090 البلد</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/090.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/090.mp3</guid>
     </item>
     <item>
-      <title>091 - سورة الشمس (Ash-Shams) - Sayyed Saeed</title>
-      <description>سورة الشمس بصوت الشيخ السيد سعيد.</description>
+      <title>091 الشمس</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/091.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/091.mp3</guid>
     </item>
     <item>
-      <title>092 - سورة الليل (Al-Layl) - Sayyed Saeed</title>
-      <description>سورة الليل بصوت الشيخ السيد سعيد.</description>
+      <title>092 الليل</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/092.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/092.mp3</guid>
     </item>
     <item>
-      <title>093 - سورة الضحى (Ad-Duha) - Sayyed Saeed</title>
-      <description>سورة الضحى بصوت الشيخ السيد سعيد.</description>
+      <title>093 الضحى</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/093.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/093.mp3</guid>
     </item>
     <item>
-      <title>096 - سورة العلق (Al-Alaq) - Sayyed Saeed</title>
-      <description>سورة العلق بصوت الشيخ السيد سعيد.</description>
+      <title>096 العلق</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/096.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/096.mp3</guid>
     </item>
     <item>
-      <title>097 - ما تيسر من سورة الكهف والقدر (Selections from Al-Kahf and Al-Qadr) - Sayyed Saeed</title>
-      <description>ما تيسر من سورة الكهف والقدر بصوت الشيخ السيد سعيد.</description>
+      <title>097 الكهف والقدر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/097.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/097.mp3</guid>
     </item>
     <item>
-      <title>097 - سورة القدر (Al-Qadr) - Sayyed Saeed</title>
-      <description>سورة القدر بصوت الشيخ السيد سعيد.</description>
+      <title>097 القدر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/097.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/097.mp3</guid>
     </item>
     <item>
-      <title>099 - سورة الزلزلة (Az-Zalzala) - Sayyed Saeed</title>
-      <description>سورة الزلزلة بصوت الشيخ السيد سعيد.</description>
+      <title>099 الزلزلة</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/099.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/099.mp3</guid>
     </item>
     <item>
-      <title>106 - سورة قريش (Quraysh) - Sayyed Saeed</title>
-      <description>سورة قريش بصوت الشيخ السيد سعيد.</description>
+      <title>106 قريش</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/106.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/106.mp3</guid>
     </item>
     <item>
-      <title>108 - سورة الكوثر (Al-Kawthar) - Sayyed Saeed</title>
-      <description>سورة الكوثر بصوت الشيخ السيد سعيد.</description>
+      <title>108 الكوثر</title>
+      <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://archive.org/download/019_20221105/108.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://archive.org/download/019_20221105/108.mp3</guid>
     </item>
