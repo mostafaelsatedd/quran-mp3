@@ -7,9 +7,9 @@
     <language>ar</language>
     <itunes:author>الشيخ السيد سعيد</itunes:author>
     <itunes:summary>تلاوات قرآنية بصوت الشيخ السيد سعيد.</itunes:summary>
-    <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/241.webp" />
+    <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/cover.jpg" />
     <image>
-      <url>https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/241.webp</url>
+      <url>https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/cover.jpg</url>
       <title>تلاوات الشيخ السيد سعيد</title>
       <link>https://archive.org/details/019_20221105</link>
     </image>
@@ -21,7 +21,7 @@
       <guid isPermaLink="false">https://archive.org/download/019_20221105/001.mp3</guid>
     </item>
     <item>
-      <title>002 البقرة </title>
+      <title>002 البقرة</title>
       <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3</guid>
