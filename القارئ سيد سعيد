@@ -7,9 +7,9 @@
     <language>ar</language>
     <itunes:author>الشيخ السيد سعيد</itunes:author>
     <itunes:summary>تلاوات قرآنية بصوت الشيخ السيد سعيد.</itunes:summary>
-    <itunes:image href="https://github.com/mostafaelsatedd/quran-mp3/blob/main/241.webp" />
+    <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/241.webp" />
     <image>
-      <url>https://github.com/mostafaelsatedd/quran-mp3/blob/main/241.webp</url>
+      <url>https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/241.webp</url>
       <title>تلاوات الشيخ السيد سعيد</title>
       <link>https://archive.org/details/019_20221105</link>
     </image>
