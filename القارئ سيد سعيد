@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
+<itunes:image href="رابط_الصورة" />
+<image>
+  <url>رابط_الصورة</url>
+  <title>تلاوات الشيخ السيد سعيد</title>
+  <link>https://archive.org/details/019_20221105</link>
+</image>
     <title>تلاوات الشيخ السيد سعيد</title>
     <link>https://archive.org/details/019_20221105</link>
     <description>تلاوات قرآنية للشيخ السيد سعيد.</description>
