@@ -7,9 +7,9 @@
     <language>ar</language>
     <itunes:author>الشيخ السيد سعيد</itunes:author>
     <itunes:summary>تلاوات قرآنية بصوت الشيخ السيد سعيد.</itunes:summary>
-    <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/cover.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%A8%D9%88%D8%B1%D8%AA%D8%B1%D9%8A%D9%87%20%D8%B4%D9%8A%D8%AE%20%D9%85%D8%B3%D9%86%20%D8%A8%D8%B2%D9%8A%20%D8%A3%D8%A8%D9%8A%D8%B6.png" />
     <image>
-      <url>https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/cover.jpg</url>
+      <url>https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%A8%D9%88%D8%B1%D8%AA%D8%B1%D9%8A%D9%87%20%D8%B4%D9%8A%D8%AE%20%D9%85%D8%B3%D9%86%20%D8%A8%D8%B2%D9%8A%20%D8%A3%D8%A8%D9%8A%D8%B6.png</url>
       <title>تلاوات الشيخ السيد سعيد</title>
       <link>https://archive.org/details/019_20221105</link>
     </image>
@@ -21,7 +21,7 @@
       <guid isPermaLink="false">https://archive.org/download/019_20221105/001.mp3</guid>
     </item>
     <item>
-      <title>002 البقرة</title>
+      <title>002 البقرة </title>
       <description>تلاوة للشيخ السيد سعيد.</description>
       <enclosure url="https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">https://media.way2quran.com/alsaid-saeed/hafs-an-asim/002-001.mp3</guid>
