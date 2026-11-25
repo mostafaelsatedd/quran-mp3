@@ -1,14 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>القرآن الكريم كاملاً بصوت الشيخ عبد البديع غيلان - حفص عن عاصم</title>
     <link>https://way2quran.com/ar/reciters/abdulbadi-ghailan/hafs-an-asim</link>
     <description>تلاوات المصحف الشريف كاملاً بصوت القارئ الشيخ عبد البديع غيلان، برواية حفص عن عاصم. يحتوي الملف على 114 سورة، وكل سورة في ملف MP3 مستقل.</description>
     <language>ar</language>
+    <image>
+      <url>https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86.png</url>
+      <title>القرآن الكريم كاملاً بصوت الشيخ عبد البديع غيلان</title>
+      <link>https://way2quran.com/ar/reciters/abdulbadi-ghailan/hafs-an-asim</link>
+    </image>
+    <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86.png" />
     <ttl>60</ttl>
     <item>
       <title>001 - سورة الفاتحة | عبد البديع غيلان</title>
       <description>سورة الفاتحة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/1.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/1.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-001</guid>
@@ -16,6 +24,8 @@
     <item>
       <title>002 - سورة البقرة | عبد البديع غيلان</title>
       <description>سورة البقرة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/2.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/2.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-002</guid>
@@ -23,6 +33,8 @@
     <item>
       <title>003 - سورة آل عمران | عبد البديع غيلان</title>
       <description>سورة آل عمران بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/3.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/3.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-003</guid>
@@ -30,6 +42,8 @@
     <item>
       <title>004 - سورة النساء | عبد البديع غيلان</title>
       <description>سورة النساء بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/4.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/4.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-004</guid>
@@ -37,6 +51,8 @@
     <item>
       <title>005 - سورة المائدة | عبد البديع غيلان</title>
       <description>سورة المائدة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/5.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/5.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-005</guid>
@@ -44,6 +60,8 @@
     <item>
       <title>006 - سورة الأنعام | عبد البديع غيلان</title>
       <description>سورة الأنعام بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/6.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/6.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-006</guid>
@@ -51,6 +69,8 @@
     <item>
       <title>007 - سورة الأعراف | عبد البديع غيلان</title>
       <description>سورة الأعراف بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/7.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/7.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-007</guid>
@@ -58,6 +78,8 @@
     <item>
       <title>008 - سورة الأنفال | عبد البديع غيلان</title>
       <description>سورة الأنفال بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/8.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/8.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-008</guid>
@@ -65,6 +87,8 @@
     <item>
       <title>009 - سورة التوبة | عبد البديع غيلان</title>
       <description>سورة التوبة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/9.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/9.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-009</guid>
@@ -72,6 +96,8 @@
     <item>
       <title>010 - سورة يونس | عبد البديع غيلان</title>
       <description>سورة يونس بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/10.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/10.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-010</guid>
@@ -79,6 +105,8 @@
     <item>
       <title>011 - سورة هود | عبد البديع غيلان</title>
       <description>سورة هود بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/11.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/11.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-011</guid>
@@ -86,6 +114,8 @@
     <item>
       <title>012 - سورة يوسف | عبد البديع غيلان</title>
       <description>سورة يوسف بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/12.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/12.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-012</guid>
@@ -93,6 +123,8 @@
     <item>
       <title>013 - سورة الرعد | عبد البديع غيلان</title>
       <description>سورة الرعد بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/13.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/13.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-013</guid>
@@ -100,6 +132,8 @@
     <item>
       <title>014 - سورة إبراهيم | عبد البديع غيلان</title>
       <description>سورة إبراهيم بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/14.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/14.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-014</guid>
@@ -107,6 +141,8 @@
     <item>
       <title>015 - سورة الحجر | عبد البديع غيلان</title>
       <description>سورة الحجر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/15.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/15.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-015</guid>
@@ -114,6 +150,8 @@
     <item>
       <title>016 - سورة النحل | عبد البديع غيلان</title>
       <description>سورة النحل بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/16.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/16.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-016</guid>
@@ -121,6 +159,8 @@
     <item>
       <title>017 - سورة الإسراء | عبد البديع غيلان</title>
       <description>سورة الإسراء بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/17.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/17.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-017</guid>
@@ -128,6 +168,8 @@
     <item>
       <title>018 - سورة الكهف | عبد البديع غيلان</title>
       <description>سورة الكهف بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/18.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/18.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-018</guid>
@@ -135,6 +177,8 @@
     <item>
       <title>019 - سورة مريم | عبد البديع غيلان</title>
       <description>سورة مريم بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/19.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/19.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-019</guid>
@@ -142,6 +186,8 @@
     <item>
       <title>020 - سورة طه | عبد البديع غيلان</title>
       <description>سورة طه بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/20.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/20.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-020</guid>
@@ -149,6 +195,8 @@
     <item>
       <title>021 - سورة الأنبياء | عبد البديع غيلان</title>
       <description>سورة الأنبياء بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/21.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/21.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-021</guid>
@@ -156,6 +204,8 @@
     <item>
       <title>022 - سورة الحج | عبد البديع غيلان</title>
       <description>سورة الحج بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/22.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/22.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-022</guid>
@@ -163,6 +213,8 @@
     <item>
       <title>023 - سورة المؤمنون | عبد البديع غيلان</title>
       <description>سورة المؤمنون بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/23.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/23.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-023</guid>
@@ -170,6 +222,8 @@
     <item>
       <title>024 - سورة النور | عبد البديع غيلان</title>
       <description>سورة النور بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/24.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/24.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-024</guid>
@@ -177,6 +231,8 @@
     <item>
       <title>025 - سورة الفرقان | عبد البديع غيلان</title>
       <description>سورة الفرقان بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/25.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/25.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-025</guid>
@@ -184,6 +240,8 @@
     <item>
       <title>026 - سورة الشعراء | عبد البديع غيلان</title>
       <description>سورة الشعراء بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/26.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/26.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-026</guid>
@@ -191,6 +249,8 @@
     <item>
       <title>027 - سورة النمل | عبد البديع غيلان</title>
       <description>سورة النمل بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/27.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/27.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-027</guid>
@@ -198,6 +258,8 @@
     <item>
       <title>028 - سورة القصص | عبد البديع غيلان</title>
       <description>سورة القصص بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/28.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/28.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-028</guid>
@@ -205,6 +267,8 @@
     <item>
       <title>029 - سورة العنكبوت | عبد البديع غيلان</title>
       <description>سورة العنكبوت بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/29.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/29.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-029</guid>
@@ -212,6 +276,8 @@
     <item>
       <title>030 - سورة الروم | عبد البديع غيلان</title>
       <description>سورة الروم بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/30.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/30.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-030</guid>
@@ -219,6 +285,8 @@
     <item>
       <title>031 - سورة لقمان | عبد البديع غيلان</title>
       <description>سورة لقمان بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/31.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/31.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-031</guid>
@@ -226,6 +294,8 @@
     <item>
       <title>032 - سورة السجدة | عبد البديع غيلان</title>
       <description>سورة السجدة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/32.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/32.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-032</guid>
@@ -233,6 +303,8 @@
     <item>
       <title>033 - سورة الأحزاب | عبد البديع غيلان</title>
       <description>سورة الأحزاب بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/33.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/33.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-033</guid>
@@ -240,6 +312,8 @@
     <item>
       <title>034 - سورة سبأ | عبد البديع غيلان</title>
       <description>سورة سبأ بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/34.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/34.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-034</guid>
@@ -247,6 +321,8 @@
     <item>
       <title>035 - سورة فاطر | عبد البديع غيلان</title>
       <description>سورة فاطر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/35.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/35.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-035</guid>
@@ -254,6 +330,8 @@
     <item>
       <title>036 - سورة يس | عبد البديع غيلان</title>
       <description>سورة يس بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/36.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/36.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-036</guid>
@@ -261,6 +339,8 @@
     <item>
       <title>037 - سورة الصافات | عبد البديع غيلان</title>
       <description>سورة الصافات بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/37.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/37.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-037</guid>
@@ -268,6 +348,8 @@
     <item>
       <title>038 - سورة ص | عبد البديع غيلان</title>
       <description>سورة ص بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/38.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/38.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-038</guid>
@@ -275,6 +357,8 @@
     <item>
       <title>039 - سورة الزمر | عبد البديع غيلان</title>
       <description>سورة الزمر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/39.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/39.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-039</guid>
@@ -282,6 +366,8 @@
     <item>
       <title>040 - سورة غافر | عبد البديع غيلان</title>
       <description>سورة غافر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/40.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/40.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-040</guid>
@@ -289,6 +375,8 @@
     <item>
       <title>041 - سورة فصلت | عبد البديع غيلان</title>
       <description>سورة فصلت بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/41.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/41.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-041</guid>
@@ -296,6 +384,8 @@
     <item>
       <title>042 - سورة الشورى | عبد البديع غيلان</title>
       <description>سورة الشورى بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/42.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/42.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-042</guid>
@@ -303,6 +393,8 @@
     <item>
       <title>043 - سورة الزخرف | عبد البديع غيلان</title>
       <description>سورة الزخرف بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/43.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/43.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-043</guid>
@@ -310,6 +402,8 @@
     <item>
       <title>044 - سورة الدخان | عبد البديع غيلان</title>
       <description>سورة الدخان بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/44.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/44.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-044</guid>
@@ -317,6 +411,8 @@
     <item>
       <title>045 - سورة الجاثية | عبد البديع غيلان</title>
       <description>سورة الجاثية بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/45.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/45.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-045</guid>
@@ -324,6 +420,8 @@
     <item>
       <title>046 - سورة الأحقاف | عبد البديع غيلان</title>
       <description>سورة الأحقاف بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/46.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/46.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-046</guid>
@@ -331,6 +429,8 @@
     <item>
       <title>047 - سورة محمد | عبد البديع غيلان</title>
       <description>سورة محمد بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/47.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/47.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-047</guid>
@@ -338,6 +438,8 @@
     <item>
       <title>048 - سورة الفتح | عبد البديع غيلان</title>
       <description>سورة الفتح بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/48.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/48.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-048</guid>
@@ -345,6 +447,8 @@
     <item>
       <title>049 - سورة الحجرات | عبد البديع غيلان</title>
       <description>سورة الحجرات بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/49.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/49.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-049</guid>
@@ -352,6 +456,8 @@
     <item>
       <title>050 - سورة ق | عبد البديع غيلان</title>
       <description>سورة ق بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/50.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/50.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-050</guid>
@@ -359,6 +465,8 @@
     <item>
       <title>051 - سورة الذاريات | عبد البديع غيلان</title>
       <description>سورة الذاريات بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/51.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/51.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-051</guid>
@@ -366,6 +474,8 @@
     <item>
       <title>052 - سورة الطور | عبد البديع غيلان</title>
       <description>سورة الطور بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/52.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/52.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-052</guid>
@@ -373,6 +483,8 @@
     <item>
       <title>053 - سورة النجم | عبد البديع غيلان</title>
       <description>سورة النجم بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/53.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/53.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-053</guid>
@@ -380,6 +492,8 @@
     <item>
       <title>054 - سورة القمر | عبد البديع غيلان</title>
       <description>سورة القمر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/54.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/54.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-054</guid>
@@ -387,6 +501,8 @@
     <item>
       <title>055 - سورة الرحمن | عبد البديع غيلان</title>
       <description>سورة الرحمن بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/55.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/55.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-055</guid>
@@ -394,6 +510,8 @@
     <item>
       <title>056 - سورة الواقعة | عبد البديع غيلان</title>
       <description>سورة الواقعة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/56.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/56.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-056</guid>
@@ -401,6 +519,8 @@
     <item>
       <title>057 - سورة الحديد | عبد البديع غيلان</title>
       <description>سورة الحديد بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/57.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/57.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-057</guid>
@@ -408,6 +528,8 @@
     <item>
       <title>058 - سورة المجادلة | عبد البديع غيلان</title>
       <description>سورة المجادلة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/58.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/58.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-058</guid>
@@ -415,6 +537,8 @@
     <item>
       <title>059 - سورة الحشر | عبد البديع غيلان</title>
       <description>سورة الحشر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/59.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/59.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-059</guid>
@@ -422,6 +546,8 @@
     <item>
       <title>060 - سورة الممتحنة | عبد البديع غيلان</title>
       <description>سورة الممتحنة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/60.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/60.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-060</guid>
@@ -429,6 +555,8 @@
     <item>
       <title>061 - سورة الصف | عبد البديع غيلان</title>
       <description>سورة الصف بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/61.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/61.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-061</guid>
@@ -436,6 +564,8 @@
     <item>
       <title>062 - سورة الجمعة | عبد البديع غيلان</title>
       <description>سورة الجمعة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/62.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/62.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-062</guid>
@@ -443,6 +573,8 @@
     <item>
       <title>063 - سورة المنافقون | عبد البديع غيلان</title>
       <description>سورة المنافقون بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/63.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/63.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-063</guid>
@@ -450,6 +582,8 @@
     <item>
       <title>064 - سورة التغابن | عبد البديع غيلان</title>
       <description>سورة التغابن بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/64.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/64.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-064</guid>
@@ -457,6 +591,8 @@
     <item>
       <title>065 - سورة الطلاق | عبد البديع غيلان</title>
       <description>سورة الطلاق بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/65.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/65.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-065</guid>
@@ -464,6 +600,8 @@
     <item>
       <title>066 - سورة التحريم | عبد البديع غيلان</title>
       <description>سورة التحريم بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/66.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/66.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-066</guid>
@@ -471,6 +609,8 @@
     <item>
       <title>067 - سورة الملك | عبد البديع غيلان</title>
       <description>سورة الملك بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/67.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/67.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-067</guid>
@@ -478,6 +618,8 @@
     <item>
       <title>068 - سورة القلم | عبد البديع غيلان</title>
       <description>سورة القلم بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/68.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/68.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-068</guid>
@@ -485,6 +627,8 @@
     <item>
       <title>069 - سورة الحاقة | عبد البديع غيلان</title>
       <description>سورة الحاقة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/69.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/69.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-069</guid>
@@ -492,6 +636,8 @@
     <item>
       <title>070 - سورة المعارج | عبد البديع غيلان</title>
       <description>سورة المعارج بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/70.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/70.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-070</guid>
@@ -499,6 +645,8 @@
     <item>
       <title>071 - سورة نوح | عبد البديع غيلان</title>
       <description>سورة نوح بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/71.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/71.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-071</guid>
@@ -506,6 +654,8 @@
     <item>
       <title>072 - سورة الجن | عبد البديع غيلان</title>
       <description>سورة الجن بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/72.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/72.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-072</guid>
@@ -513,6 +663,8 @@
     <item>
       <title>073 - سورة المزمل | عبد البديع غيلان</title>
       <description>سورة المزمل بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/73.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/73.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-073</guid>
@@ -520,6 +672,8 @@
     <item>
       <title>074 - سورة المدثر | عبد البديع غيلان</title>
       <description>سورة المدثر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/74.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/74.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-074</guid>
@@ -527,6 +681,8 @@
     <item>
       <title>075 - سورة القيامة | عبد البديع غيلان</title>
       <description>سورة القيامة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/75.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/75.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-075</guid>
@@ -534,6 +690,8 @@
     <item>
       <title>076 - سورة الإنسان | عبد البديع غيلان</title>
       <description>سورة الإنسان بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/76.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/76.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-076</guid>
@@ -541,6 +699,8 @@
     <item>
       <title>077 - سورة المرسلات | عبد البديع غيلان</title>
       <description>سورة المرسلات بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/77.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/77.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-077</guid>
@@ -548,6 +708,8 @@
     <item>
       <title>078 - سورة النبأ | عبد البديع غيلان</title>
       <description>سورة النبأ بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/78.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/78.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-078</guid>
@@ -555,6 +717,8 @@
     <item>
       <title>079 - سورة النازعات | عبد البديع غيلان</title>
       <description>سورة النازعات بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/79.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/79.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-079</guid>
@@ -562,6 +726,8 @@
     <item>
       <title>080 - سورة عبس | عبد البديع غيلان</title>
       <description>سورة عبس بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/80.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/80.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-080</guid>
@@ -569,6 +735,8 @@
     <item>
       <title>081 - سورة التكوير | عبد البديع غيلان</title>
       <description>سورة التكوير بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/81.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/81.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-081</guid>
@@ -576,6 +744,8 @@
     <item>
       <title>082 - سورة الانفطار | عبد البديع غيلان</title>
       <description>سورة الانفطار بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/82.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/82.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-082</guid>
@@ -583,6 +753,8 @@
     <item>
       <title>083 - سورة المطففين | عبد البديع غيلان</title>
       <description>سورة المطففين بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/83.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/83.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-083</guid>
@@ -590,6 +762,8 @@
     <item>
       <title>084 - سورة الانشقاق | عبد البديع غيلان</title>
       <description>سورة الانشقاق بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/84.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/84.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-084</guid>
@@ -597,6 +771,8 @@
     <item>
       <title>085 - سورة البروج | عبد البديع غيلان</title>
       <description>سورة البروج بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/85.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/85.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-085</guid>
@@ -604,6 +780,8 @@
     <item>
       <title>086 - سورة الطارق | عبد البديع غيلان</title>
       <description>سورة الطارق بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/86.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/86.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-086</guid>
@@ -611,6 +789,8 @@
     <item>
       <title>087 - سورة الأعلى | عبد البديع غيلان</title>
       <description>سورة الأعلى بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/87.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/87.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-087</guid>
@@ -618,6 +798,8 @@
     <item>
       <title>088 - سورة الغاشية | عبد البديع غيلان</title>
       <description>سورة الغاشية بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/88.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/88.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-088</guid>
@@ -625,6 +807,8 @@
     <item>
       <title>089 - سورة الفجر | عبد البديع غيلان</title>
       <description>سورة الفجر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/89.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/89.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-089</guid>
@@ -632,6 +816,8 @@
     <item>
       <title>090 - سورة البلد | عبد البديع غيلان</title>
       <description>سورة البلد بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/90.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/90.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-090</guid>
@@ -639,6 +825,8 @@
     <item>
       <title>091 - سورة الشمس | عبد البديع غيلان</title>
       <description>سورة الشمس بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/91.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/91.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-091</guid>
@@ -646,6 +834,8 @@
     <item>
       <title>092 - سورة الليل | عبد البديع غيلان</title>
       <description>سورة الليل بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/92.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/92.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-092</guid>
@@ -653,6 +843,8 @@
     <item>
       <title>093 - سورة الضحى | عبد البديع غيلان</title>
       <description>سورة الضحى بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/93.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/93.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-093</guid>
@@ -660,6 +852,8 @@
     <item>
       <title>094 - سورة الشرح | عبد البديع غيلان</title>
       <description>سورة الشرح بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/94.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/94.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-094</guid>
@@ -667,6 +861,8 @@
     <item>
       <title>095 - سورة التين | عبد البديع غيلان</title>
       <description>سورة التين بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/95.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/95.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-095</guid>
@@ -674,6 +870,8 @@
     <item>
       <title>096 - سورة العلق | عبد البديع غيلان</title>
       <description>سورة العلق بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/96.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/96.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-096</guid>
@@ -681,6 +879,8 @@
     <item>
       <title>097 - سورة القدر | عبد البديع غيلان</title>
       <description>سورة القدر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/97.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/97.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-097</guid>
@@ -688,6 +888,8 @@
     <item>
       <title>098 - سورة البينة | عبد البديع غيلان</title>
       <description>سورة البينة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/98.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/98.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-098</guid>
@@ -695,6 +897,8 @@
     <item>
       <title>099 - سورة الزلزلة | عبد البديع غيلان</title>
       <description>سورة الزلزلة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/99.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/99.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-099</guid>
@@ -702,6 +906,8 @@
     <item>
       <title>100 - سورة العاديات | عبد البديع غيلان</title>
       <description>سورة العاديات بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/100.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/100.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-100</guid>
@@ -709,6 +915,8 @@
     <item>
       <title>101 - سورة القارعة | عبد البديع غيلان</title>
       <description>سورة القارعة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/101.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/101.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-101</guid>
@@ -716,6 +924,8 @@
     <item>
       <title>102 - سورة التكاثر | عبد البديع غيلان</title>
       <description>سورة التكاثر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/102.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/102.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-102</guid>
@@ -723,6 +933,8 @@
     <item>
       <title>103 - سورة العصر | عبد البديع غيلان</title>
       <description>سورة العصر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/103.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/103.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-103</guid>
@@ -730,6 +942,8 @@
     <item>
       <title>104 - سورة الهمزة | عبد البديع غيلان</title>
       <description>سورة الهمزة بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/104.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/104.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-104</guid>
@@ -737,6 +951,8 @@
     <item>
       <title>105 - سورة الفيل | عبد البديع غيلان</title>
       <description>سورة الفيل بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/105.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/105.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-105</guid>
@@ -744,6 +960,8 @@
     <item>
       <title>106 - سورة قريش | عبد البديع غيلان</title>
       <description>سورة قريش بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/106.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/106.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-106</guid>
@@ -751,6 +969,8 @@
     <item>
       <title>107 - سورة الماعون | عبد البديع غيلان</title>
       <description>سورة الماعون بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/107.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/107.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-107</guid>
@@ -758,6 +978,8 @@
     <item>
       <title>108 - سورة الكوثر | عبد البديع غيلان</title>
       <description>سورة الكوثر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/108.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/108.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-108</guid>
@@ -765,6 +987,8 @@
     <item>
       <title>109 - سورة الكافرون | عبد البديع غيلان</title>
       <description>سورة الكافرون بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/109.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/109.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-109</guid>
@@ -772,6 +996,8 @@
     <item>
       <title>110 - سورة النصر | عبد البديع غيلان</title>
       <description>سورة النصر بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/110.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/110.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-110</guid>
@@ -779,6 +1005,8 @@
     <item>
       <title>111 - سورة المسد | عبد البديع غيلان</title>
       <description>سورة المسد بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/111.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/111.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-111</guid>
@@ -786,6 +1014,8 @@
     <item>
       <title>112 - سورة الإخلاص | عبد البديع غيلان</title>
       <description>سورة الإخلاص بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/112.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/112.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-112</guid>
@@ -793,6 +1023,8 @@
     <item>
       <title>113 - سورة الفلق | عبد البديع غيلان</title>
       <description>سورة الفلق بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/113.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/113.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-113</guid>
@@ -800,6 +1032,8 @@
     <item>
       <title>114 - سورة الناس | عبد البديع غيلان</title>
       <description>سورة الناس بصوت الشيخ عبد البديع غيلان - رواية حفص عن عاصم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
+      <media:thumbnail url="https://raw.githubusercontent.com/mostafaelsatedd/quran-mp3/main/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%A8%D8%AF%D9%8A%D8%B9%20%D8%BA%D9%8A%D9%84%D8%A7%D9%86/I2xyd3xbXcu44X9sxXwAXlvEJg65NpWmsZGZBwW6.jpg" />
       <link>https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/114.mp3</link>
       <enclosure url="https://media.way2quran.com/abdulbadi-ghailan/hafs-an-asim/114.mp3" length="0" type="audio/mpeg" />
       <guid isPermaLink="false">abdulbadi-ghailan-hafs-114</guid>
